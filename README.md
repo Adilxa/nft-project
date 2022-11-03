@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project can be found by this [LINK](nft-project-9u6xmf8me-adilxa.vercel.app)
 
 ## Available Scripts
 
